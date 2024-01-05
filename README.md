@@ -1,0 +1,1 @@
+Menggunakan Arduino nano, modul mux dan library midi
